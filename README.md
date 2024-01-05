@@ -19,6 +19,3 @@
 >* What are the most common reasons for employee absenteeism?
 >* How does the season or month affect absenteeism?
 >* Are there patterns in absenteeism based on certain demographics or characteristics?
-
-# SQL Query
-I performed an equivalent SQL query on the dataset with the objective of merging datasets, applying transformations, extracting only the relevant columns, and subsequently analyzing the new dataset by addressing specific questions.
